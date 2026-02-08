@@ -1,7 +1,7 @@
 ---
 title: MARNA ADVENTURES
 ---
-- [[ПРИКЛЮЧЕНИЯ МАРНЫ - ОГЛАВЛЕНИЕ]]
+- [[Оглавление]]
 
 Welcome to Quartz 4
 //quartz
